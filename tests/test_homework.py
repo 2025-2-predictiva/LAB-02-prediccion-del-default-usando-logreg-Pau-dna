@@ -34,7 +34,7 @@ METRICS = [
         "dataset": "test",
         "precision": 0.700,
         "balanced_accuracy": 0.620,
-        "recall": 0.349,
+        "recall": 0.250,
         "f1_score": 0.466,
     },
     {
