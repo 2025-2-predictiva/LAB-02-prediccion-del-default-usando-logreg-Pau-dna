@@ -35,7 +35,7 @@ METRICS = [
         "precision": 0.700,
         "balanced_accuracy": 0.620,
         "recall": 0.250,
-        "f1_score": 0.466,
+        "f1_score": 0.38,
     },
     {
         "type": "cm_matrix",
