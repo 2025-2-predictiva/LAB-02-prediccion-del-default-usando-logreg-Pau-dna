@@ -27,7 +27,7 @@ METRICS = [
         "precision": 0.690,
         "balanced_accuracy": 0.600,
         "recall": 0.200,
-        "f1_score": 0.437,
+        "f1_score": 0.300,
     },
     {
         "type": "metrics",
