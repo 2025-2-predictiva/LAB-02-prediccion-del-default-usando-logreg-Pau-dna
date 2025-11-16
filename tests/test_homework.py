@@ -17,7 +17,7 @@ MODEL_COMPONENTS = [
     "LogisticRegression",
 ]
 SCORES = [
-    0.620,
+    0.600,
     0.650,
 ]
 METRICS = [
@@ -25,7 +25,7 @@ METRICS = [
         "type": "metrics",
         "dataset": "train",
         "precision": 0.690,
-        "balanced_accuracy": 0.620,
+        "balanced_accuracy": 0.600,
         "recall": 0.319,
         "f1_score": 0.437,
     },
